@@ -1,0 +1,8 @@
+.outer-div{
+    display:inline-flex;
+}
+.top{
+    width: 100px;
+    height: 100px;
+    border :1x black;
+}
